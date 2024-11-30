@@ -1,16 +1,25 @@
-# Crime_Statics_Dashboard-
-Crime Statistics Dashboard The Crime Statistics Dashboard is a web application built with Python and Flask that visualizes and analyzes crime statistics. It processes raw crime data, provides interactive visualizations, and displays the processed data in a user-friendly interface. The project is designed to help users understand crime patterns 
-Team Member: 
-1. Saud Rana
-2. Jay dhrangadhariya
-3. Krushnaraj sigh Sisodiya
-4. Paras panchal
-5. Jay Malu
+# Crime Statistics Dashboard
 
-      Libraries are used in this project : 
-    1. Numpy
-    2. pandas
-    3. Seaborn
-    4. Matplotlib
-  
-       
+## Objective
+Analyze and visualize crime trends in India from 2003 to 2021 to understand regional variations.
+
+## Tools and Libraries Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Folder Structure
+- `data/`: Contains raw and cleaned datasets.
+- `src/`: Contains scripts for data preprocessing and visualization.
+- `visuals/`: Contains saved plots.
+- `output/`: Contains summarized data and reports.
+- `docs/`: Contains project documentation.
+- `assets/`: Contains screen recordings and videos.
+
+## Execution Steps
+1. Clone the repository.
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
