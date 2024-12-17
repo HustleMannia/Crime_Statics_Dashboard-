@@ -44,8 +44,8 @@ Analyze and visualize crime trends in India from 2003 to 2021 to understand regi
 1. Saud Rana   (KU2407U366)_ Python coding 
 2.  Krushnarajsinh Sisodiya (KU2407U322)_ Manage all the files, Manages main folder 
 3.  Paras Panchal (KU2407U344)_ manage all the dataset,Contributor in python coding 
-4.  Jay Drangadhariya (KU2407U)_ code exection and code screenshot 
-5.   Jay Mallu (KU2407U)  
+4.  Jay Drangadhariya (KU2407U)_ code execution and code screenshot 
+5.   Jay Mallu (KU2407U301)_  manges bacground and design of working model 
 6.  Dharma Patel (KU2407U) 
   
 
